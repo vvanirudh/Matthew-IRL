@@ -1,0 +1,6 @@
+#! /usr/bin/env python
+
+import matthew_irl.hello
+
+if __name__=='__main__':
+   matthew_irl.hello.say(' my friend!')
